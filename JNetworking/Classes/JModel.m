@@ -11,7 +11,7 @@
 
 - (void)log
 {
-    NSLog(@"hello1");
+    NSLog(@"hello123");
 }
 
 @end
