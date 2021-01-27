@@ -1,0 +1,6 @@
+framework module JNetworking {
+  umbrella header "JNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
